@@ -1,0 +1,14 @@
+pandas==0.20.3
+feather-format
+statsmodels
+pymssql
+seaborn
+tables
+pandas-datareader
+ipython
+h5py
+plotly
+ipyparallel
+numba==0.39.0
+cython
+numpy
