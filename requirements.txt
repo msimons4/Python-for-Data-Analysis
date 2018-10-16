@@ -1,7 +1,5 @@
 pandas==0.20.3
 feather-format
-statsmodels
-pymssql
 seaborn
 tables
 pandas-datareader
