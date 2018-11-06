@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="962192d7-1d1e-4ef3-a70d-b011600449dd" name="Default" comment="10/16/2018">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Chapter 3.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 3.ipynb">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Chapter 4.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 4.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="97" />
+              <selected id="29" />
             </state>
           </provider>
         </entry>
@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/Chapter 2.ipynb" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/Chapter 3.ipynb" />
+        <option value="$PROJECT_DIR$/Chapter 4.ipynb" />
       </list>
     </option>
   </component>
@@ -126,9 +127,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -155,6 +155,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="10/16/2018" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapter 4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -221,7 +249,14 @@
     <entry file="file://$PROJECT_DIR$/Chapter 3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="97" />
+          <selected id="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="29" />
         </state>
       </provider>
     </entry>
