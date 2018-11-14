@@ -3,7 +3,7 @@ feather-format
 seaborn
 tables
 pandas-datareader
-ipython
+jupyter notebook
 h5py
 plotly
 ipyparallel
